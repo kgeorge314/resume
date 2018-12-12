@@ -8,14 +8,18 @@
   description: SQL Azure, EventHub, Stream Analytics
 
 - skill: Azure Infrastructure
-  description: AppService, Function-Apps, Virtual Machines , Azure-Automation, Logic-Apps, 
+  description: AppService, Function-Apps, Virtual Machines , Azure-Automation, Logic-Apps, Docker, Kubernetes
 
 - skill: NoSql
   description: ElasticSearch (ELK Stack)
 
 - skill: DevOps
-  description: AZ Cli, AzurePS-RM, ARM-Templates, VSTS (Azure DevOps), Bamboo, Jenkins, Octopus Deploy, Jira, Trello
+  description: AZ Cli, AzurePS-RM, ARM-Templates, VSTS (Azure DevOps), Bamboo, Jenkins, Octopus Deploy, Application Insights
 
 - skill: Powershell
   description: Azure-Modules, Powershell-Modules, Functions
+
+- skill: Product Management 
+  description: ServiceNow, Jira, Trello, SharePoint, Confluence 
+
 
