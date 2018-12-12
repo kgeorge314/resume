@@ -1,0 +1,15 @@
+- skill: Programming
+  description: Perl, C# .Net, Python
+
+- skill: Data-Tools
+  description: SSRS, SSIS, Power-Query, Power-BI, Logstash, Kibana, R (R-Project)
+
+- skill: Infrastructure
+  description: Server 2008+,Linux debian, vSphere, Hyper-V, Azure IAAS, BladeLogic
+
+- skill: Big Data
+  description: Azure Data Lake, Azure Cosmos DB, HortonWorks
+
+- skill: Tool Set
+  description: GIT, SVN, XML-XSLT, Prince 2 Certified
+

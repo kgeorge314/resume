@@ -1,0 +1,44 @@
+# Jobs
+
+# OneView
+- company: "Oneview Healthcare (ASX: One)"
+  position: Data Platform (Technical Architect)
+  duration: May, 2018 &mdash; December 2018
+  summary: Design and Implementation of the Real-Time Data-platform on Azure. Utilizing EventHubs, Stream Analytics, SQL Azure and Storage Account to Capture, Process and Persist event data from downstream systems.
+
+
+# KBC Bank
+- company: KBC Bank
+  position: Solution Architect (Data Systems)
+  duration: Feb, 2017 &mdash; May, 2018
+  summary: Design and implementation of Data-science platform for data-science team. Technical lead on Data technologies for the regulatory Enterprise Datawarehouse.
+
+# Fleetmatics
+- company: Fleetmatics 
+  position: Senior Database Developer | Operational Database
+  duration:  Feb, 2015 &mdash; Feb, 2017
+  summary: A 70:30 mix between db-development and administration. Development of all objects to support the application focusing on new designs and implementation/optimization of existing objects 
+
+# RageSpark
+- company:  RageSpark 
+  position: Database Developer | VOIP, Report, Telephony
+  duration: Jul 2014 &mdash; Feb 2015
+  summary: The application captured data from Shoretel systems into a SQL database and then provided custom reports. I designed, modelled and optimized reports as per customers need. The customer profile varied heavily and thus each install/optimization was unique. 
+
+# Vidappt
+- company:  Vidappt 
+  position: Database Developer | Data Application 
+  duration: Sep 2012 &mdash; Feb 2014
+  summary: An I.T. Application and Service Provider. Using in-house Proprietary  Code-Generation tools, built a variety web-apps (CMS/CRM/Online  Booking) by integrating Data-modelling with Proprietary XML  configuration data & domain specific C#.
+
+  # Heco
+- company:  Heco Systems 
+  position: System Analyst | Manufacturing Systems 
+  duration: Jun 2010 &mdash; Sep 2012
+  summary: Created Google-Apps based management systems, covering business operations of Production, Sales, & Product-Support
+
+  # Heco
+- company:  Heco Systems 
+  position: Infrastructure | Windows Systems 
+  duration: Nov 2009 &mdash; Jun 2010
+  summary: Deployed base IT Infrastructure (Networking / Storage / Servers / Desktops / Firewall)
