@@ -4,26 +4,65 @@
 - company: "Oneview Healthcare (ASX: One)"
   position: Data Platform (Technical Architect)
   duration: May, 2018 &mdash; December 2018
-  summary: Design and Implementation of the Real-Time Data-platform on Azure. Utilizing EventHubs, Stream Analytics, SQL Azure and Storage Account to Capture, Process and Persist event data from downstream systems.
+  summary: | 
+    <p>A greenfield project to build out a Data Platform for internal and external users.</p>
 
+    <p>Worked on the design and implementation of the platform built on the cloud. The platform provided its consumers with a dimensional-modelled (Kimball) which consumed data from both real-time and batch sources.</p>
+    
+    <p><b>Highlights</b><p>
+    <ul class="resume-item-list">
+    <li> Real-time reporting empowered by steam analytics and Event Hubs</li>
+    <li> Orchestration using Azure Automation, Azure Functions</li>
+    <li> Containerisation using Docker</li>
+    <li> Facilitated easy adaption of containers with custom Powershell modules, providing single command environments. </li>
+    <li> Implemented agile CI/CD using Docker, Azure Dev Ops(VSTS), UnitTesting Framework (tSQLt), End2End Integration-Tests (Custom Test Harness), Octopus.
+    </ul>
 
 # KBC Bank
 - company: KBC Bank
   position: Solution Architect (Data Systems)
   duration: Feb, 2017 &mdash; May, 2018
-  summary: Design and implementation of Data-science platform for data-science team. Technical lead on Data technologies for the regulatory Enterprise Datawarehouse.
+  summary: | 
+    <p>Worked in the Insights and Data-science team providing guidance on architecture and hands-on development of systems.</p>
+
+    <p><b>Highlights:</b><p>
+    <ul class="resume-item-list">
+    <li>A large migration of a multi-system platform from one Data-center to another.</li>
+    <li>Brought in Agile processes for data-science team</li>
+    <li>Provided mentoring on data-technologies to multiple-teams</li>
+    <li>Architected and re-engineered the data-science platform.</li>
+    </ul>
 
 # Fleetmatics
 - company: Fleetmatics 
   position: Senior Database Developer | Operational Database
   duration:  Feb, 2015 &mdash; Feb, 2017
-  summary: A 70:30 mix between db-development and administration. Development of all objects to support the application focusing on new designs and implementation/optimization of existing objects 
+  summary: | 
+    <p>Worked on the field service management platform as a database developer responsible for the data systems.</p>
+
+    <p><b>Highlights:</b><p>
+    <ul class="resume-item-list">
+    <li>Migrated from a monolith to a micro-service architecture DDD</li>
+    <li>Migrated from SVN/VSTS to git, assisting in training and supporting the entire team.</li>
+    <li>Automated with PowerShell repetitive business tasks & development tasks (like Environment resets).</li>
+    <li>Build a Azure Automation tool to provide SQL-Server-agent like functionality for SQL Azure.</li> 
+    <li>Using the Automation-tool, built a monitoring platform to capture key SQL Azure metrics.</li> 
+    <li>Built Power-BI dashboard that correlated our monitor database with Google Analytics information.</li> 
+    <li>Setup end-to-end CI process with custom build-module written in Powershell, including tSQLt unit tests and Slack Integration. (BitBucket, Jenkins, tSQLt, Powershell)</li> 
+    </ul>
 
 # RageSpark
 - company:  RageSpark 
   position: Database Developer | VOIP, Report, Telephony
   duration: Jul 2014 &mdash; Feb 2015
-  summary: The application captured data from Shoretel systems into a SQL database and then provided custom reports. I designed, modelled and optimized reports as per customers need. The customer profile varied heavily and thus each install/optimization was unique. 
+  summary: |
+    <p>Worked on a telephony management system. Building reports (T-SQL), performance tuning, deployments and support.</p>
+
+    <p><b>Highlights:</b><p>
+    <ul class="resume-item-list">
+    <li>Performance tuning reports on several million rows of call data.</li>
+    <li>Improved deployment with Powershell and answer-files See less.</li>
+    </ul>
 
 # Vidappt
 - company:  Vidappt 
